@@ -1,0 +1,13 @@
+id_prod,nome_prod,categoria,preco_unitario,data_fabricacao,entrada_produtos
+1,Sombras Compactas,olhos,30.00,2025-03-01,50
+2,Lentes de Contato Coloridas,olhos,45.00,2025-03-01,30
+3,Delineador Líquido,olhos,50.00,2025-03-01,40
+4,Batom Líquido Matte,lábios,35.00,2025-03-01,60
+5,Gloss Labial,lábios,40.00,2025-03-01,35
+6,Lápis de Contorno Labial,lábios,20.00,2025-03-01,50
+7,Base Líquida,pele,45.00,2025-03-01,70
+8,Corretivo em Bastão,pele,50.00,2025-03-01,40
+9,Pó Compacto,pele,22.00,2025-03-01,60
+10,Fixador de Maquiagem,fixadores,40.00,2025-03-01,25
+11,Spray Fixador de Maquiagem,fixadores,20.00,2025-03-01,50
+12,Fixador em Gel,fixadores,55.00,2025-03-01,40
